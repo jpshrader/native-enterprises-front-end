@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/johnshrader/frens-front-end/_apis/build/status/jpshrader.frens-front-end?branchName=main)](https://dev.azure.com/johnshrader/frens-front-end/_build/latest?definitionId=2&branchName=main)
+
 # Frens Front End
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.

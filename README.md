@@ -1,8 +1,8 @@
 # Frens Front End
 
-This project consumes the [frens-api](https://github.com/jpshrader/frens-api)
-
 [![Build Status](https://dev.azure.com/johnshrader/frens-front-end/_apis/build/status/jpshrader.frens-front-end?branchName=main)](https://dev.azure.com/johnshrader/frens-front-end/_build/latest?definitionId=2&branchName=main)
+
+This project consumes the [frens-api](https://github.com/jpshrader/frens-api)
 
 ## Development server
 
